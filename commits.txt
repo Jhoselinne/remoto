@@ -1,1 +1,12 @@
-Aqui vamos a poner los commits de mi repositorio local
+506a434 Merge branch 'main' of https://github.com/Jhoselinne/remoto
+569c52b Create commit.txt
+d958b77 Initial commit
+09988bf Conflicto arreglado
+ad0dd26 Modificacion de dos puntos
+0984b9a Se arreglo conflicto
+5bf33e4 Modificacion en Main a Jesus
+a6fa382 Modificacion de main
+e8d9868 Modificacion de parametros operations
+7d5c643 Modificacion Operations
+2ca2118 Segundo commit
+c80a498 Primer commit
